@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **animeshsingh221@gmail.com**
 
-- 📄 Know about my experiences [I am a fresher with almost 3 months of experience in tech industry](I am a fresher with almost 3 months of experience in tech industry)
+- 📄 Know about my experiences (I am a fresher with almost 3 months of experience in tech industry)
 
 - ⚡ Fun fact **I am a good Valorant Player 😅**
 
