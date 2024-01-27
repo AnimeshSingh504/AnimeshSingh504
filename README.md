@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Animesh Kumar Singh</h1>
 <h3 align="center">A passionate software enginner who loves to code,strong enthusiast towards ML, DL and AI. By profession I am a Java Full Stack Developer, apart from that I am a Mern Stack developer too.</h3>
 
+<img src = "https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611y5gspl6ontqevp1shibxzjowxcf7pnpgc52hsjxs&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="code" width = "400px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshsingh504&label=Profile%20views&color=0e75b6&style=flat" alt="animeshsingh504" /> </p>
 
 - 🌱 I’m looking to learn **next.js**
