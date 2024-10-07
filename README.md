@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [on Github itself](on Github itself)
 
-- 💬 Ask me about **react.js, mongo, js**
+- 💬 Ask me about **react.js, mongo, js, solid.js**
 
 - 📫 How to reach me **animeshsingh221@gmail.com**
 
-- 📄 Know about my experiences (I am a fresher with almost 3 months of experience in tech industry)
+- 📄 Know about my experiences (I am a fresher with almost 1 year of experience in tech industry)
 
 - ⚡ Fun fact **I am a good Valorant Player 😅**
 
